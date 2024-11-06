@@ -1,2 +1,4 @@
 # Dixieland Full QBCore Server
- Dixieland Full QBCore Server for FiveM
+
+Scripte von Dixieland, findet Ihr im Discord!
+https://discord.gg/YzsQUU46kE
